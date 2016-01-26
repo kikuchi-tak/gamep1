@@ -1,1 +1,1 @@
-# gamep1
+# mygamesp1 study_project
